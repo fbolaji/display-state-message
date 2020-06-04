@@ -14,6 +14,6 @@ If state is 'processing' then it will be delay by 2s before proceeding to the ne
     getProcessingPage({state: 'processing', state: 'error'});
 4. Test by changing the @param to meet the different scenario as per requirement.
 
-if imported as module into another js file e.g import { getProcessingPage } from './_helper/getProcessingPage';
+if imported as module into another js file e.g import { getProcessingPage } from './getProcessingPage';
 Please repeat the above steps 2 to 4.
  
