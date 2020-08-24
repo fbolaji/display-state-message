@@ -1,6 +1,3 @@
-#### Candidate : Francis Bolaji
-date: 03/06/2020
-
 ### Description: 
 The purpose of getProcesssingPage helper function is to determine the output of the different state to go to base on the @param passed.
 If state is 'processing' then it will be delay by 2s before proceeding to the next state. if next state has an error then an error code then it will output an error message... verse versa.
